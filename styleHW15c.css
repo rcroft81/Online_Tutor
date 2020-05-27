@@ -1,0 +1,67 @@
+/* CSS document */
+
+
+h1{
+	color: black;
+	font-size: 200%;
+	font-weight: bolder;
+	text-align: center;
+	font-family: Zapfino;
+	
+	
+	}
+h3{
+	text-align: center;
+	}
+
+body{
+	background-image: url(green.jpg);
+	margin-left: 0.5in;
+	margin-right: 0.5in;
+	}
+
+p{
+	font-size: 85%;
+	margin-left: 0.25in;
+	margin-right: 0.25in;
+	margin-top: 0.25in;
+
+	}
+
+img{
+	float: left;
+	padding-left: 0.15in;
+	padding-top: 0.15in;
+	padding-right: 0.15in;
+	height: 430px;
+	width: 200px;
+	}
+div{
+	border: 2px solid black;
+	margin-left: 2.25in;
+	margin-right: 2.25in;
+	background-color: white;
+	}
+
+ol{
+	color: #ff0000;
+	font-size: xx-large;
+	font-family: Zapfino;
+	line-height: 90%;
+	list-style-type: none;
+	}
+li{
+	padding-top: 0.25in;
+	padding-bottom: 0.25in;
+	margin-left: 1.25in;
+	margin-right: 1.25in;
+	text-align: center;
+	color: #356A00;
+	}
+
+div.button{
+	text-align: center;
+	}
+
+
+
